@@ -12,7 +12,7 @@ import PostJob from './pages/PostJob'
 import MyJobs from './pages/MyJobs'
 import SaveJobs from './pages/SaveJobs'
 import JobPage from './pages/JobPage'
-import ProtectedRoutes from './components/protectedRoutes'
+import ProtectedRoutes from './components/ProtectedRoutes'
 
 function App() {
 
